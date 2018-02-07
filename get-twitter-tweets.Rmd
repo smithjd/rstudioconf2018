@@ -8,7 +8,6 @@ date: "`r Sys.Date()`"
 ```{r Setup libraries}
 library(tidyverse)
 library(rtweet)
-library(stringr)
 library(DT)
 
 hashtag <- "rstudioconf"
