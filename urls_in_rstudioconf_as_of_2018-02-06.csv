@@ -1,0 +1,135 @@
+created_at,screen_name,text,favorite_count,retweet_count,urls_expanded_url
+2018-02-05T20:11:14Z,robinson_es,"You can find my slides from my #rstudioconf talk, “The Lesser Known Stars of the Tidyverse,” here: https://t.co/2yZYccFjGr. Recording available soon! https://t.co/AiMMDP2ZTB",171,45,https://github.com/robinsones/rstudio-conf-2018-talk/blob/master/Rstudio_conference_2018_presentation.pdf
+2018-02-05T19:46:02Z,dataandme,"🐜 Check it, @ajmcoqui's ""Debugging in RStudio"" 
+📽 Slides *and* cheat sheet!
+https://t.co/rAvKP9iXLa #rstats #rstudioconf https://t.co/T4627GcuXK",57,13,https://buff.ly/2s7W8ED
+2018-02-05T19:23:27Z,jonmcalder,"So many #rstats highlights in RWeekly 2018-6! Interview with @ma_salmon who recently joined @rOpenSci, @RConsortium call for proposals, @theRcast interviews @romain_francois &amp; @thomasp85 at #rstudioconf , and @LucyStats &amp; @LittleMissData recap #ddtx18! https://t.co/CXdoKjrOpd https://t.co/E9c8R4Pl9D",29,12,https://rweekly.org/2018-6.html
+2018-02-05T19:22:54Z,drob,"Slides for my #rstudioconf talk, ""Teach the tidyverse to beginners"", are available here! https://t.co/7fMpJJOE4n #rstats #tidyverse https://t.co/3zYck4XJNW",261,72,https://github.com/rstudio/rstudio-conf/tree/master/2018/TeachTidyverse-DavidRobinson
+2018-02-05T08:22:58Z,AmeliaMN,Thanks to @simecek for compiling all the #rstudioconf slide decks in one place! https://t.co/GWvyp35mWF,130,54,https://github.com/simecek/RStudioConf2018Slides
+2018-02-05T03:09:04Z,dataandme,"Slides 📽 from my talk, ""contributing to the tidyverse"" at #rstudioconf https://t.co/hl7mmc1RQv #rstats #tidyverse https://t.co/jSs6fTPD8v",179,39,http://bit.ly/tverse-contrib
+2018-02-04T11:28:46Z,_NickGolding_,"Any #rstats folks who want to know exactly what deep learning / tensorflow is and how to do it from R, JJ Allaire's #rstudioconf keynote is a must watch. It's at https://t.co/YL3MXHwh80, starting ~10mins in 1/n",67,26,https://youtu.be/Ol1FjFR2IMU
+2018-02-04T03:04:35Z,Voovarb,"Inspired by the crazy level of productivity at #rstudioconf, I have finally finished writing the first official Cramer Fish Sciences blog post! Featuring special guest @hrbrmstr. Look forward to much more fishy viz to come! #rstats https://t.co/lAmPMHWJDq",44,13,https://fishsciences.github.io/post/visualizing-fish-encounter-histories/
+2018-02-04T01:14:26Z,drob,"An audience member asks if there will ever be a manifesto of #tidyverse principles. It’s a draft but there totally is!
+
+https://t.co/3jeOkf3QNJ
+
+#rstudioconf https://t.co/d53wQ1KzCF",132,38,https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html
+2018-02-04T00:54:06Z,astroeringrand,"I’ve seen this often and can’t help but think about what it means for hiring bias. I don’t know how people can check all the boxes with private repos, 40+ hr work weeks, and children! Are we limiting the field to people with time vs people with the skills? #rstudioconf https://t.co/qgTfJZu8H7",198,53,https://twitter.com/d4tagirl/status/959951268545413120
+2018-02-03T22:49:51Z,robinson_es,".@old_man_chester &amp; @rudeboybert created their (free!) intro stats and data science book w/ goal that readers can take what they learn in and use it outside of classroom for job, senior thesis, etc. Find at https://t.co/LmjkC21KXG #rstudioconf https://t.co/8sf3xufkMH",40,14,http://moderndive.com
+2018-02-03T21:15:52Z,AmeliaMN,The materials for my Intro to R &amp; RStudio workshop are here: https://t.co/OnhaC3PMpf #rstudioconf,254,56,https://github.com/AmeliaMN/IntroToR
+2018-02-03T20:16:00Z,drob,".@dataandme points to @xieyihui's post about GH pull requests: ""You Do Not Need to Tell Me I Have A Typo in My Documentation"" https://t.co/Bh3d9vbihP #rstudioconf https://t.co/HVyPcSwwG0",59,15,https://yihui.name/en/2013/06/fix-typo-in-documentation/
+2018-02-03T19:59:24Z,javierluraschi,"#rstudioconf slides for ""Deploying #tensorflow models"" are available here: https://t.co/TglmbM3cBY #keras #kerasjs #rstats https://t.co/zYHV7gPDt9",36,14,http://rpubs.com/jluraschi/deploying-tensorflow-rstudio-conf
+2018-02-03T19:42:29Z,seankross,".@jimhester_ showing off lots of free resources for writing R packages at #rstudioconf! @hadleywickham’s “R Packages” is amazing https://t.co/MG0kFUvgWV, also check out “Mastering Software Development in R” by @rdpeng @gbwanderson and me: https://t.co/pnWq8zYNvR https://t.co/EZg3NLmal3",48,12,http://r-pkgs.had.co.nz/
+2018-02-03T19:42:29Z,seankross,".@jimhester_ showing off lots of free resources for writing R packages at #rstudioconf! @hadleywickham’s “R Packages” is amazing https://t.co/MG0kFUvgWV, also check out “Mastering Software Development in R” by @rdpeng @gbwanderson and me: https://t.co/pnWq8zYNvR https://t.co/EZg3NLmal3",48,12,https://bookdown.org/rdpeng/RProgDA/
+2018-02-03T19:29:08Z,JennyBryan,"How to make an #rstats package (maybe even in 20 minutes!), everything from @jimhester_ ’s #rstudioconf talk https://t.co/mRyfDSpdoY",147,47,https://rstd.io/rpkgs2018
+2018-02-03T19:18:10Z,sharon000,"Great resources for starting to write #rstats packages, @GioraSimchoni shares with #rstudioconf 
+https://t.co/3ZT8IdmSkY https://t.co/ARqLD3EYGQ",47,12,http://giorasimchoni.com/rstudio_conf_2018_talk.html#/20
+2018-02-03T18:23:23Z,kevin_ushey,*whispers* check out the R bindings to Python available in the reticulate package. The quietly awesome work behind the TensorFlow bindings. https://t.co/d23fQkKOVS #rstudioconf,82,16,https://github.com/rstudio/reticulate
+2018-02-03T18:16:49Z,sharon000,"JJ Allaire's key takeaways from his #rstudioconf talk on #DeepLearning with R. 
+Note: All slides are available at 
+https://t.co/ttNYZzdyTn
+#rstats https://t.co/xmJ8UB0psV",16,11,http://bit.ly/2EDvXbl
+2018-02-03T17:54:11Z,drob,How can you do deep learning with @keras on small data? Transfer learning: use a pre-trained network as a starting point https://t.co/yf9jT75ulJ #rstudioconf https://t.co/mzCmFxdzBM,41,16,https://tensorflow.rstudio.com/blog/keras-image-classification-on-small-datasets.html
+2018-02-03T17:52:23Z,sharon000,Cheat sheet for deep learning with Keras and #rstats: https://t.co/LJFblX72sd  #rstudioconf #DeepLearning,56,23,http://bit.ly/2EDNro2
+2018-02-03T17:44:28Z,drob,Check out the keras package! I really like how the pipe operator is used to define multiple layers in a neural network https://t.co/BneOQfMe1V #rstudioconf @fly_upside_down https://t.co/fBxjEPEHuo,97,13,https://tensorflow.rstudio.com/keras/
+2018-02-03T17:39:26Z,drob,.@fly_upside_down shows how fast the field of deep learning by sharing a cool paper from just last week: predictive modeling of raw electronic health records https://t.co/KSegaBikkL #rstudioconf https://t.co/mf5spjQqPb,38,14,https://arxiv.org/abs/1801.07860
+2018-02-03T17:38:51Z,rstudio,"In case you missed it, we are live-streaming day 2 of rstudio::conf 2018 -&gt; https://t.co/T8BIj2RaJQ. The stream is on a new channel due to technical difficulties with our other account. We appreciate the patience and flexibility. #rstudioconf #rstats #rstudio",28,13,http://bit.ly/2s3Mzq3
+2018-02-03T17:10:05Z,rstudio,"We are live-streaming:  #rstudioconf 2018 keynote: “Machine Learning with Tensor Flow and R”, presented by RStudio founder J.J. Allaire. Access the stream -&gt; https://t.co/RBGqaqknxd #Rstats #RStudio",64,25,http://bit.ly/2nCVsRS
+2018-02-03T17:09:20Z,AmeliaMN,skim() All The Things!! https://t.co/LYv3aNKl22 #rstudioconf https://t.co/8h0LVA7j44,58,11,https://cran.r-project.org/web/packages/skimr/index.html
+2018-02-03T02:42:59Z,JennyBryan,"Dealing with lists, lists in a data frame, and how to simplify them: slides from my #rstudioconf talk (link to #rstats code in description): https://t.co/w4XDpwkCIg https://t.co/WYcpFksgYo",299,76,https://rstd.io/rectangling
+2018-02-03T02:18:46Z,theotheredgar,Material from my #rstudioconf talk about databases with R is now available here: https://t.co/6XRgAouaZT https://t.co/CbixOaShaV,60,18,https://github.com/edgararuiz/db_best_practices_2018
+2018-02-03T01:07:26Z,ntweetor,"For anyone interested, here is a link to my #rstudioconf slides on the zeallot 📦 and unpacking assignment in R. https://t.co/FmWGgaL1vS",71,21,https://github.com/nteetor/presentations/tree/master/rstudio-conf-2018#readme
+2018-02-03T00:57:06Z,juliasilge,"Here are the slides for my #rstudioconf talk on understanding PCA using Stack Overflow data! 
+https://t.co/TLuRW9WS0c",333,107,https://speakerdeck.com/juliasilge/understanding-principal-component-analysis-using-stack-overflow-data
+2018-02-03T00:46:36Z,krlmlr,"Slides for my #rstudioconf presentation on DBI, with @RConsortium support: https://t.co/87raZdl0P6. As promised, the nodes are green 😄 https://t.co/dwsXVBaQGo",38,17,https://goo.gl/8sJLLp
+2018-02-03T00:17:13Z,robinson_es,"If you’re ready to take your #rstats coding to the next level, check out tidy eval and more in @hadleywickham’s WIP 2nd edition advanced R book https://t.co/9la36OT0RY #rstudioconf https://t.co/oDg1ArrQsd",51,17,http://adv-r.hadley.nz
+2018-02-02T23:19:34Z,TimothyMastny,"The presentations at #rstudioconf are great! Why not embed them in your blogdown website with one line of code? @xieyihui makes it very simple with knitr #rstats 
+https://t.co/xqVQOUNols https://t.co/y2LAVr9MRj",47,18,https://timmastny.rbind.io/blog/embed-slides-knitr-blogdown/
+2018-02-02T22:44:06Z,minebocek,Slides (just a few) from my #rstudioconf talk and demo materials (that made up most of the talk) are at https://t.co/dRf5sziMs9 (and I can't wait to watch the videos of all the talks I missed during it),78,21,http://bit.ly/conf18-mine
+2018-02-02T22:37:28Z,xieyihui,"Slides of my #rstudioconf talk on blogdown: https://t.co/BNimSHHHht Sorry, I have to confess that I lied (apparently) when I said I could type insanely fast with HHKB. The HHKB was not even connected to my laptop... I added the truth to the slides. Enjoy!",165,40,https://bit.ly/2018-blogdown
+2018-02-02T20:14:38Z,kevin_ushey,Thanks to everyone who joined my talk re: new features in RStudio v1.1! Slides are up at https://t.co/AJnaObTGL5. #rstudioconf,44,16,https://kevinushey-2018-rstudio-conf.netlify.com/slides.html
+2018-02-02T20:03:10Z,LucyStats,"Hearing Andrew Bray discuss his (&amp; @old_man_chester @BaumerBen @minebocek) #rstats infer 📦. Building statistical inference in a tidy &amp; transparent way, using the verbs:
+🗣 specify()
+🤔 hypothesize()
+🎲 generate()
+💻 calculate()
+📈 visualize()
+https://t.co/BzdQeBYSWV #rstudioconf",87,26,https://infer.netlify.com
+2018-02-02T19:55:12Z,juliasilge,"Wowwwww, this #rstudioconf talk by Andrew Bray on the infer package makes me reconsider how I implement hypothesis testing. https://t.co/mX3JRFotv9",70,16,https://github.com/andrewpbray/infer
+2018-02-02T19:55:01Z,robinson_es,"https://t.co/m4J36kJn4S comes with tutorials! No installation needed, making it (&amp; https://t.co/0l6EW2sOfd) great ways for people to get started with R #rstudioconf https://t.co/SEZrNguPDd",58,12,http://Rstudio.cloud
+2018-02-02T19:55:01Z,robinson_es,"https://t.co/m4J36kJn4S comes with tutorials! No installation needed, making it (&amp; https://t.co/0l6EW2sOfd) great ways for people to get started with R #rstudioconf https://t.co/SEZrNguPDd",58,12,http://datacamp.com
+2018-02-02T19:41:54Z,robinson_es,Excited to learn all about rstudio in the cloud. Try it yourself at https://t.co/pMCMK3Zf3q #rstudioconf https://t.co/82MN1ZAyPX,43,16,http://rstudio.cloud
+2018-02-02T19:30:15Z,seankross,Want to master the new terminal in the latest version of @rstudio? I wrote a free book just for you! https://t.co/uatIhTb1Pa #rstudioconf https://t.co/axCAVdwFI1,57,15,http://seankross.com/the-unix-workbench/
+2018-02-02T19:30:15Z,seankross,Want to master the new terminal in the latest version of @rstudio? I wrote a free book just for you! https://t.co/uatIhTb1Pa #rstudioconf https://t.co/axCAVdwFI1,57,15,https://twitter.com/juliasilge/status/959507375450279936
+2018-02-02T18:49:54Z,rstudio,We are going to continue live-streaming a learning track at #rstudioconf. We hope it relieves some of the #FOMO for those who couldn't make it to San Diego. You can access the stream here -&gt; #rstats #rstudio https://t.co/gOYBdfs3b6,49,23,https://www.youtube.com/watch?v=ogy7rHWlsQ8
+2018-02-02T18:12:25Z,CMastication,"I’m blown away that #rstudioconf is over 1000 ppl. I’ve gone out of my way to talk to as many people as possible and it’s obvious: industry has discovered #rstats. ~15 here from John Deere, 4 from CarFax, Guy in front of me is from ADM. Big diff from my first R conf in 2010! https://t.co/c6hGbPZuU0",165,26,https://twitter.com/gwendoesdata/status/958862835957645313
+2018-02-02T17:55:14Z,edzerpebesma,"Uploaded my #rstudioconf slides at https://t.co/1gucCttC7M ; don't miss the BoF #rspatial unconf at 17:30-18:30, Pier room, 3rd floor!",68,18,https://edzer.github.io/rstudio_conf/#1
+2018-02-02T17:51:33Z,drob,I really like the methods of graphical inference from @visnut: permute data and try to find the original. Check out her nullabor package for more! https://t.co/uGj7vhFZVp #rstudioconf https://t.co/wdYqjBHeTU,163,48,https://cran.r-project.org/web/packages/nullabor/index.html
+2018-02-02T17:43:33Z,hadleywickham,One of these plots is not like the others: https://t.co/oDIgSWyKuY — cookie monster teaches you about graphical inference #rstudioconf (thanks to @visnut for reminding about this video),101,24,https://youtu.be/rEHKm3Z1zUE
+2018-02-02T17:05:53Z,rstudio,"We are live-streaming NOW:  #rstudioconf 2018 keynote “To the Tidyverse and Beyond: Challenges for the Future in Data Science”, presented by Dianne Cook. Access the stream -&gt; https://t.co/CqyFG1aWLA  #rstats #rstudio",34,13,http://bit.ly/2BPNkTh
+2018-02-02T17:03:50Z,thomasp85,The slides for my #rstudioconf presentation on tidygraph/ggraph is now up at https://t.co/GQyqYWDIx9,123,20,https://www.data-imaginist.com/slides/rstudioconf2018/
+2018-02-02T06:23:55Z,rstudiotips,"Couldn't make it to #rstudioconf? You can still watch the keynote livestreams! Check the #rstudioconf hashtag for tips and resources from the conference, too. #rstats https://t.co/cIge09E2Z5",84,18,https://twitter.com/rstudio/status/959210273818071040
+2018-02-02T02:52:39Z,AmeliaMN,"This is a high-quality poster, @nj_tierney. #rstudioconf https://t.co/cPuO4gDaQg https://t.co/qoBEXGWemO",134,22,http://www.naniar.njtierney.com
+2018-02-01T23:42:05Z,rstudio,UPDATE WITH DETAILS: Put https://t.co/Yzf7xbTU4S in your calendar to catch Di Cook’s live-streamed keynote “To the Tidyverse and Beyond” 9am PT Fri Feb 2 and J.J. Allaire’s “Machine Learning with R and Tensorflow” 9am PT Sat Feb 3. #rstudioconf,200,72,http://rstd.io/YouTube
+2018-02-01T19:44:10Z,UofGPsychology,"If you're broom-ing into February but tibble-y sad at missing out on #rstudioconf then do we plyr have the package for you. Save the lubridate, March 8th, Shiny Glasgow, and #rstats your course to a tidyr tomorrow.
+
+https://t.co/5ffeKejjhV",19,11,https://www.eventbrite.co.uk/e/teaching-reproducible-data-analysis-in-psychology-with-r-tickets-41384249404
+2018-02-01T19:33:27Z,cpsievert,"Slides for my #rstudioconf #rstats talk tomorrow ""Augmenting data exploration with interactive graphics""
+
+https://t.co/ES3ijG0GnV",106,23,https://talks.cpsievert.me/20180202/
+2018-02-01T19:30:24Z,rstudio,"We will be live-streaming our rstudio::conf 2018 keynotes &amp; a talk on large scale machine learning using TensorFlow, BigQuery and CloudML Engine within RStudio. Access the stream on our official YouTube page tomorrow -&gt; https://t.co/Yzf7xbTU4S. #rstudioconf",224,104,http://rstd.io/YouTube
+2018-02-01T18:51:28Z,grrrck,"Was feeling like I was missing out on all the #rstudioconf fun, so I made a simple #shiny app to bring the (twitter) conference to me! #rstats #fomo https://t.co/0o2lc5ocps https://t.co/Z5ddy8AiaE",113,22,https://gadenbuie.shinyapps.io/rsconf_tweets/
+2018-02-01T01:15:30Z,datapointier,"Learned so much in day 1 of “what they forgot to teach you about R” at #rstudioconf with @JennyBryan! My favorite is usethis::use_github() 🙌🙌🙌 painless way to 🚀 a local repo into the world!
+
+My notes here: https://t.co/n8eTbs85Jt",265,63,http://jessicaminnier.com/rstudioconf18_jennybryan_forgot/notes.html
+2018-02-01T01:14:47Z,AmeliaMN,"For my #rstudioconf Intro to R &amp; @RStudio workshop, I finished v. 1.0 of my R Syntax Comparison cheatsheet. https://t.co/ti3vEkQmOO
+Ask me if you want a paper copy! https://t.co/Wn2e7coEGg",649,218,http://www.science.smith.edu/~amcnamara/Syntax-cheatsheet.pdf
+2018-01-31T20:54:52Z,kearneymw,Github repo on collecting and exploring the #rstudioconf Twitter data: https://t.co/iv5rByMad6. It includes instructions on how to re-gather the data [for yourself] and a few pretty charts. https://t.co/sYMCh9Velr,155,50,https://github.com/mkearney/rstudioconf_tweets
+2018-01-31T19:14:00Z,kierisi,For all #rstats beginners as well as the rstats curious - for the next few days keep an eye on the #rstudioconf hashtag to follow along with all of the greatness happening in San Diego: https://t.co/wn9xE82PVn,77,34,https://buff.ly/2Fx3Vxm
+2018-01-30T23:25:08Z,kearneymw,"The week of #rstudioconf is a good time to remind everyone that some important books are [intentionally] available online for free:
+https://t.co/ePMiKs3MAr
+https://t.co/NHR7wmLGgd
+https://t.co/wbymwjG0CD
+https://t.co/uwqG0q967M
+https://t.co/AjXTfZgyAg
+https://t.co/zgoHq51PGV",446,202,http://r4ds.had.co.nz/
+2018-01-30T23:25:08Z,kearneymw,"The week of #rstudioconf is a good time to remind everyone that some important books are [intentionally] available online for free:
+https://t.co/ePMiKs3MAr
+https://t.co/NHR7wmLGgd
+https://t.co/wbymwjG0CD
+https://t.co/uwqG0q967M
+https://t.co/AjXTfZgyAg
+https://t.co/zgoHq51PGV",446,202,http://adv-r.had.co.nz/
+2018-01-30T23:25:08Z,kearneymw,"The week of #rstudioconf is a good time to remind everyone that some important books are [intentionally] available online for free:
+https://t.co/ePMiKs3MAr
+https://t.co/NHR7wmLGgd
+https://t.co/wbymwjG0CD
+https://t.co/uwqG0q967M
+https://t.co/AjXTfZgyAg
+https://t.co/zgoHq51PGV",446,202,http://r-pkgs.had.co.nz/
+2018-01-30T23:25:08Z,kearneymw,"The week of #rstudioconf is a good time to remind everyone that some important books are [intentionally] available online for free:
+https://t.co/ePMiKs3MAr
+https://t.co/NHR7wmLGgd
+https://t.co/wbymwjG0CD
+https://t.co/uwqG0q967M
+https://t.co/AjXTfZgyAg
+https://t.co/zgoHq51PGV",446,202,http://moderndive.com/
+2018-01-30T23:25:08Z,kearneymw,"The week of #rstudioconf is a good time to remind everyone that some important books are [intentionally] available online for free:
+https://t.co/ePMiKs3MAr
+https://t.co/NHR7wmLGgd
+https://t.co/wbymwjG0CD
+https://t.co/uwqG0q967M
+https://t.co/AjXTfZgyAg
+https://t.co/zgoHq51PGV",446,202,http://happygitwithr.com/
+2018-01-30T23:25:08Z,kearneymw,"The week of #rstudioconf is a good time to remind everyone that some important books are [intentionally] available online for free:
+https://t.co/ePMiKs3MAr
+https://t.co/NHR7wmLGgd
+https://t.co/wbymwjG0CD
+https://t.co/uwqG0q967M
+https://t.co/AjXTfZgyAg
+https://t.co/zgoHq51PGV",446,202,https://www.tidytextmining.com/
+2018-01-29T13:22:26Z,dataandme,"👯@RLadiesGlobal /any &amp; all who want to get involved, rstudio::conf is almost here! 🎉 
+🍾 5:30pm on Friday we have a (literal) room of our own (Cortez Hall C)
+📱 stay tuned on the conf app!
+https://t.co/hhZHtrIlc8 #rstats #RLadies #rstudioconf https://t.co/8l9DyxcLBw",53,20,https://buff.ly/2EkOQzK
+2018-01-27T18:06:47Z,minebocek,Want to chat #rstats education at #rstudioconf? The education birds of a feather is happening Sat Feb-3 at 12:30. See https://t.co/FYuZMVehhB for more info. See you there!,26,15,https://community.rstudio.com/t/community-rstudio-com-at-rstudio-conf-birds-of-a-feather-group/4393
