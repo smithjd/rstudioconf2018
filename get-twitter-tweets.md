@@ -1,20 +1,20 @@
-Get Tweets for the Rstudio Conf 2018
+get-twitter-tweets.R
 ================
 John David Smith
-2018-02-06
+2018-02-19
 
 ``` r
 library(tidyverse)
 ```
 
-    ## ── Attaching packages ───────────────────── tidyverse 1.2.1 ──
+    ## ── Attaching packages ──────────
 
     ## ✔ ggplot2 2.2.1.9000     ✔ purrr   0.2.4     
-    ## ✔ tibble  1.3.4          ✔ dplyr   0.7.4     
-    ## ✔ tidyr   0.7.2          ✔ stringr 1.2.0     
-    ## ✔ readr   1.1.1          ✔ forcats 0.2.0
+    ## ✔ tibble  1.4.2          ✔ dplyr   0.7.4     
+    ## ✔ tidyr   0.8.0          ✔ stringr 1.3.0     
+    ## ✔ readr   1.1.1          ✔ forcats 0.3.0
 
-    ## ── Conflicts ──────────────────────── tidyverse_conflicts() ──
+    ## ── Conflicts ───────────────────
     ## ✖ dplyr::filter() masks stats::filter()
     ## ✖ dplyr::lag()    masks stats::lag()
 
@@ -23,15 +23,14 @@ library(rtweet)
 library(DT)
 
 hashtag <- "rstudioconf"
-```
 
-Now pick up the tweets containing the hashtag, inspect, and save
+# Now pick up the tweets containing the hashtag, inspect, and save
 
-``` r
+#  Retrieve current tweets
 all_tweets_all_columns <- search_tweets(
   hashtag,
-  n = 30000, 
-  retryonratelimit = TRUE, 
+  n = 30000,
+  retryonratelimit = TRUE,
   include_rts = FALSE
 )
 ```
@@ -52,53 +51,50 @@ all_tweets_all_columns <- search_tweets(
 saveRDS(all_tweets_all_columns, paste0(hashtag, Sys.Date(), ".Rds"))
 
 all_tweets_some_columns <- all_tweets_all_columns %>%
-  select(created_at, screen_name, text, urls_expanded_url, favorite_count, retweet_count) 
+  select(created_at, screen_name, text, urls_expanded_url, favorite_count, retweet_count)
 
 # Investigate with
 # datatable(all_tweets_some_columns)
-all_tweets_some_columns %>% 
-  arrange(desc(favorite_count)) %>% 
-  mutate(text = str_sub(text, 1, 60)) %>% 
-  select(screen_name, retweet_count, text) 
+all_tweets_some_columns %>%
+  arrange(desc(favorite_count)) %>%
+  mutate(text = str_sub(text, 1, 60)) %>%
+  select(screen_name, retweet_count, text)
 ```
 
-    ## # A tibble: 1,753 x 3
-    ##      screen_name retweet_count
-    ##            <chr>         <int>
-    ##  1      AmeliaMN           218
-    ##  2          drob           130
-    ##  3     kearneymw           202
-    ##  4    juliasilge           107
-    ##  5    JennyBryan            76
-    ##  6     thmscwlls            77
-    ##  7          drob            73
-    ##  8 hadleywickham            19
-    ##  9  datapointier            63
-    ## 10          drob            47
-    ## # ... with 1,743 more rows, and 1 more variables: text <chr>
+    ## # A tibble: 82 x 3
+    ##    screen_name  retweet_count text                                        
+    ##    <chr>                <int> <chr>                                       
+    ##  1 dataandme               56 "ICYMI, 🚫🐜 @ajmcoqui's \"Debugging in RStud…
+    ##  2 seanjtaylor             21 "I had serious FOMO missing #rstudioconf be…
+    ##  3 dataandme               26 "ICYMI, slides 📽 from my talk, \"contributi…
+    ##  4 ZazzValette              9 We met at #rstudioconf in San Diego and are…
+    ##  5 dataandme                9 💙 seeing how @EmilyRiederer uses in-house #…
+    ##  6 smithjd                 17 Riffing on @hadleywickham's data science mo…
+    ##  7 grrrck                  15 Some #rstats weekend fun. I was inspired by…
+    ##  8 Denironyx               13 Beginner workshop on #rstats and @rstudio. …
+    ##  9 CMastication            11 Let’s talk about Imposter Syndrome (thread)…
+    ## 10 dataandme                7 "ICYMI, 📽 Max Kuhn's deck from #rstudioconf…
+    ## # ... with 72 more rows
 
 ``` r
 popular_urls  <- all_tweets_some_columns %>% filter(!is.na(urls_expanded_url), retweet_count > 10) %>% unnest()
 
-popular_urls %>% 
-  arrange(desc(retweet_count)) %>% 
-  select(screen_name, retweet_count, urls_expanded_url) 
+popular_urls %>%
+  arrange(desc(retweet_count)) %>%
+  select(screen_name, retweet_count, urls_expanded_url)
 ```
 
-    ## # A tibble: 71 x 3
-    ##    screen_name retweet_count
-    ##          <chr>         <int>
-    ##  1    AmeliaMN           218
-    ##  2   kearneymw           202
-    ##  3   kearneymw           202
-    ##  4   kearneymw           202
-    ##  5   kearneymw           202
-    ##  6   kearneymw           202
-    ##  7   kearneymw           202
-    ##  8  juliasilge           107
-    ##  9     rstudio           104
-    ## 10  JennyBryan            76
-    ## # ... with 61 more rows, and 1 more variables: urls_expanded_url <chr>
+    ## # A tibble: 8 x 3
+    ##   screen_name  retweet_count urls_expanded_url                            
+    ##   <chr>                <int> <chr>                                        
+    ## 1 dataandme               56 https://buff.ly/2HmcL2L                      
+    ## 2 dataandme               26 http://buff.ly/2Ee08F4                       
+    ## 3 seanjtaylor             21 https://twitter.com/DynamicWebPaige/status/9…
+    ## 4 Rbloggers               19 https://wp.me/pMm6L-FhY                      
+    ## 5 smithjd                 17 http://learningalliances.net/2018/02/computi…
+    ## 6 grrrck                  15 http://garrickadenbuie.com/project/ggpomolog…
+    ## 7 theRcast                15 http://r-podcast.org/24                      
+    ## 8 CMastication            11 https://twitter.com/academicbatgirl/status/9…
 
 ``` r
 # datatable(popular_urls)
